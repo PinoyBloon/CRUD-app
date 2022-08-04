@@ -26,7 +26,7 @@ How do you know you got the right version? Open Command Prompt, then write this:
 node -v
 ```
 
-You don't know how to install? Easy. go to [this](https://tecadmin.net/install-nodejs-with-nvm-on-windows/) website, read from start to finish.
+You don't know how to install? Easy, go to [this](https://tecadmin.net/install-nodejs-with-nvm-on-windows/) website, read from start to finish.
 
 ## How to use
 
