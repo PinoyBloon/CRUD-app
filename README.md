@@ -30,7 +30,7 @@ You don't know how to install? Easy, go to [this](https://tecadmin.net/install-n
 
 ## How to use
 
-Fork then Clone this repo to use, or just download the ZIP file from Code dropdown (the green button)
+Fork then Clone this repo to use, or just download the ZIP file from Code dropdown.
 
 After that, open the folder in VSCode, open your terminal and type this:
 
