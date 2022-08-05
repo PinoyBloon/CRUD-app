@@ -4,8 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is for those who is too lazy to make their own CRUD Web App assignment, so feel free to use this.
 
-> Some of you might got irritated while reading this, so please forgive me
-
 > I made this README easy to understand and followed by everyone, even those who didn't even know what the hell is React js.
 
 ## Overview
