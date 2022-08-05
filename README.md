@@ -10,7 +10,7 @@ This project is for those who is too lazy to make their own CRUD Web App assignm
 
 ## Overview
 
-This app is made by following the website down below the credits, but I managed to make it with the latest updated modules, like React Router v6. This is a CRUD (Create, Read, Update, Delete) based app.
+This app is made by following the website on the right, but I managed to make it with the latest updated modules, like React Router v6. This is a CRUD (Create, Read, Update, Delete) based app.
 
 If you're interested in what React Router changes, read [this doc](https://reactrouter.com/docs/en/v6/upgrading/v5#upgrade-to-react-router-v6).
 
@@ -51,12 +51,6 @@ This will start the app in development mode, and any changes you made in the fil
 Remember, EVERYTHING WILL BE APPLIED. Meaning, if you break anything it will display where you broke things. Sadly they didn't tell you how to fix it, so good luck!
 
 If you're done, don't forget to stop the app by clicking `ctrl+c` in the terminal.
-
-## Credits
-
-[The website where I learn to make this app](https://www.freecodecamp.org/news/react-crud-app-how-to-create-a-book-management-app-from-scratch/)
-
-[The legend who made the article](https://github.com/myogeshchavan97)
 
 ## Contributing
 
