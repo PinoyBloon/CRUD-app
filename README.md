@@ -52,10 +52,6 @@ Remember, EVERYTHING WILL BE APPLIED. Meaning, if you break anything it will dis
 
 If you're done, don't forget to stop the app by clicking `ctrl+c` in the terminal.
 
-## Contributing
-
-No need. No, really! I'm grateful enough that you downloaded this web app, so thanks
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
